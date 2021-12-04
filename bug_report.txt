@@ -1,1 +1,9 @@
-
+ID": 15-DS,
+summary: the page cart don't open,
+description: after clicking the cart button, page the cart don't open,
+expected_result: the cart page will open,
+actual_result: the page cart don't open,
+reproducibility: always,
+severity: critical,
+priority: hight
+  
