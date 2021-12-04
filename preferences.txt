@@ -1,0 +1,5 @@
+favorite movie: Love and pigeons,
+favorite series: no,
+favorite food: them a lot,
+favorite season: autumn,
+country which you would like to visit: Norway
