@@ -1,0 +1,5 @@
+first name: Andrey,
+last name: Vlasov,
+age: 32,
+pets": one cat,
+desired salary: 600 dollars to start
